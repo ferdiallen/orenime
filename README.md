@@ -1,3 +1,3 @@
 # orenime
 
-Expwrimental orenime application for Android 
+Experimental orenime application for Android 
